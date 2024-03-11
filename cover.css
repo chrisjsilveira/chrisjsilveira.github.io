@@ -22,7 +22,7 @@ body {
 }
 
 .cover-container {
-  max-width: 42em;
+  max-width: 80%;
 }
 
 
@@ -125,3 +125,4 @@ body {
 .bd-mode-toggle .dropdown-menu .active .bi {
   display: block !important;
 }
+
